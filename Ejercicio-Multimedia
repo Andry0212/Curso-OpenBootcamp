@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <title>Ejercicio de multimedia</title>
+</head>
+<body>
+    <h1>Aprendiendo a utilizar imagenes</h1>
+    <img src="Assasins Creed II.png" alt="Assasins Creed el mejor juego">
+    <h1>Aprendiendo a utilizar los videos</h1>
+    <video width="380" height="280" controls autoplay muted loop>
+        <source src="Los invitados de Jordi Wild se quedan helados al escuchar los audios reales de un exorcismo.mp4" type="Video/mp4"/>
+    </video>
+    <h1>Aprendiendo a utilizar los audios</h1>
+        <audio controls autoplay loop >
+            <source src="Skrillex, Yung Lean, & Bladee - Ceremony [Official Video] (1).mp4" type="Audio/mp4"/>
+        </audio>
+</body>
+</html>
